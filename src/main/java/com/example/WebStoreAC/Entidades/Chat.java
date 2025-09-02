@@ -10,7 +10,7 @@ import java.util.List;
 @Data
 @Table(name = "chat")
 public class Chat {
-
+//q viva las chamas
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_chat")
